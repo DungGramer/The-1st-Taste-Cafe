@@ -3,8 +3,8 @@ This is an order software for cafe shop used for touch screen or desktop. The so
 
 ### Login
 
-user: admin  
-pass: admin
+<b>Account</b>: admin  
+<b>Password</b>: admin
 
 # Preview
 
